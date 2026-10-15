@@ -1,0 +1,1 @@
+C:\c#\TCPView\TCPView\bin\Release\net10.0-windows\publish\TCPView.exe

@@ -1,0 +1,15 @@
+C:\c#\TCPView\TCPView\bin\Release\net10.0-windows\TCPView.exe
+C:\c#\TCPView\TCPView\bin\Release\net10.0-windows\TCPView.deps.json
+C:\c#\TCPView\TCPView\bin\Release\net10.0-windows\TCPView.runtimeconfig.json
+C:\c#\TCPView\TCPView\bin\Release\net10.0-windows\TCPView.dll
+C:\c#\TCPView\TCPView\obj\Release\net10.0-windows\TCPView.Form1.resources
+C:\c#\TCPView\TCPView\obj\Release\net10.0-windows\TCPView.Properties.Resources.resources
+C:\c#\TCPView\TCPView\obj\Release\net10.0-windows\TCPView.csproj.GenerateResource.cache
+C:\c#\TCPView\TCPView\obj\Release\net10.0-windows\TCPView.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\TCPView\TCPView\obj\Release\net10.0-windows\TCPView.AssemblyInfoInputs.cache
+C:\c#\TCPView\TCPView\obj\Release\net10.0-windows\TCPView.AssemblyInfo.cs
+C:\c#\TCPView\TCPView\obj\Release\net10.0-windows\TCPView.csproj.CoreCompileInputs.cache
+C:\c#\TCPView\TCPView\obj\Release\net10.0-windows\TCPView.dll
+C:\c#\TCPView\TCPView\obj\Release\net10.0-windows\refint\TCPView.dll
+C:\c#\TCPView\TCPView\obj\Release\net10.0-windows\TCPView.genruntimeconfig.cache
+C:\c#\TCPView\TCPView\obj\Release\net10.0-windows\ref\TCPView.dll
